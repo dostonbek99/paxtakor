@@ -1,0 +1,326 @@
+body, h1, h2, h3, h4, h5, h6,ul,img{
+    margin:0;
+    padding:0;
+}
+
+#header{
+    background-color: #343a40;
+    height: 120px;
+}
+#rasm{
+    float: left;
+    display: inline-block;
+    width: 82px;
+    padding: 10px 5px;
+}
+#haw{
+    display: inline-block;
+    color: White;
+    font-size: 45px;
+    padding: 35px 0 0 7px;
+    text-shadow:2px 2px 5px blue;
+
+}
+#haw:hover{
+    color: blue;
+}
+.navbar {
+    float: right;
+}
+.navbar li{
+    display: inline;
+}
+.navbar li a{
+    display: inline-block;
+    text-decoration: none;
+    text-shadow: 3px 3px 4px blue;
+    font-size: 21px;
+    margin-top: 15px;
+    padding: 25px 12px 20px 5px;
+    color: white;
+    
+}
+.navbar li a:hover{
+    color: blue;
+}
+#login{
+    background-color: #006699;
+    height: 50px;
+}
+#login li {
+   
+    display: inline-block;
+    font-size: 25px;
+    padding: 6px 0px 0px 5px;
+    
+
+}
+#login li a{
+    text-decoration: none;
+    color: white;
+}
+#login li a:hover{
+    color: black;
+}
+
+.card{
+    margin: 10px 0 0 5px;
+    border: 2px solid red;
+    text-align: center;
+}
+.card:hover{
+    border: 2px dashed blue;
+}
+.card-title img{
+    width: 40px;
+    height: 40px;
+}
+.card-title{
+    text-shadow: 2px 2px 4px blue;
+}
+.card h3,h6{
+    padding:5px 0px;
+    margin: 0;
+}
+.card-img-top{
+    width: 100%;
+}
+.card-img-top:hover{
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+.card-body{
+    margin: 0;
+    padding: 0;
+}
+.card-text img{
+    width: 50px;
+    height: 50px;
+}
+.card-text{
+    font-size: 18px;
+    margin: 0px;
+}
+
+.card2{
+    margin: 10px 0 0 5px;
+    border: 2px solid blue;
+    text-align: center;
+}
+.card2:hover{
+    border: 2px dashed red;
+}
+
+.center{
+}
+.center h2{
+    text-align:center;
+    color: red;
+}
+#chap img{
+    padding-left: 0px;
+    width: 185px;
+    height: 155px;
+    text-align: left;
+}
+#ong {
+    text-align: left;
+    padding-left: 35px;
+
+}
+#flip{
+    
+    box-align:right ;
+    width: 60px;
+    padding: 5px;
+    text-align: center;
+    background-color: yellow;
+    border-radius: 7px;   
+}
+#panel{
+    text-align: left;
+    padding: 0;
+    display: none;
+    
+}
+
+#flip1{
+    box-align:right ;
+    width: 60px;
+    padding: 5px;
+    text-align: center;
+    background-color: yellow;
+    border-radius: 7px;
+}
+#panel1{
+    text-align: left;
+    padding: 0;
+    display: none;
+}
+
+#flip2{
+    box-align:right ;
+    width: 60px;
+    padding: 5px;
+    text-align: center;
+    background-color: yellow;
+    border-radius: 7px;
+}
+#panel2{
+    text-align: left;
+    padding: 0;
+    display: none;
+}
+
+#flip3{
+    box-align:right ;
+    width: 60px;
+    padding: 5px;
+    text-align: center;
+    background-color: yellow;
+    border-radius: 7px;
+}
+#panel3{
+    text-align: left;
+    padding: 0;
+    display: none;
+}
+
+#flip4{
+    box-align:right ;
+    width: 60px;
+    padding: 5px;
+    text-align: center;
+    background-color: yellow;
+    border-radius: 7px;
+}
+#panel4{
+    text-align: left;
+    padding: 0;
+    display: none;
+}
+
+#flip5{
+    box-align:right ;
+    width: 60px;
+    padding: 5px;
+    text-align: center;
+    background-color: yellow;
+    border-radius: 7px;
+}
+#panel5{
+    text-align: left;
+    padding: 0;
+    display: none;
+}
+
+#flip6{
+    box-align:right ;
+    width: 60px;
+    padding: 5px;
+    text-align: center;
+    background-color: yellow;
+    border-radius: 7px;
+}
+#panel6{
+    text-align: left;
+    padding: 0;
+    display: none;
+}
+
+#flip7{
+    box-align:right ;
+    width: 60px;
+    padding: 5px;
+    text-align: center;
+    background-color: yellow;
+    border-radius: 7px;
+}
+#panel7{
+    text-align: left;
+    padding: 0;
+    display: none;
+}
+
+.table{
+    padding: 5px 2px 0px 0px;
+}
+.table h2{
+    text-align: center;
+    padding-bottom:5px;
+    text-shadow: 2px 2px 4px blue;
+}
+.table img{
+    width: 55px;
+    height: 55px;
+}
+
+.tab img{
+    width: 30px;
+    height: 30px;  
+}
+
+
+.table2{
+    padding: 0px 3px 0px 0px;
+    text-align: center;
+    text-shadow: 2px 2px 4px blue;
+}
+.table2 h3{
+    padding-bottom: 5px;
+}
+.table2 img{
+   width: 55px;
+   height: 55px;
+}
+
+.tab2 img{
+    width: 30px;
+    height: 30px;
+}
+
+
+.table3{
+    padding: 0px 3px 0px 0px;
+    text-align: center;
+    text-shadow: 2px 2px 4px blue;
+}
+.table3 h3{
+    padding-bottom: 5px;
+}
+.table3 img{
+   width: 55px;
+   height: 55px;
+}
+
+.tab3 img{
+    width: 20px;
+    height: 20px;
+}
+
+
+.footer{
+	height: 140px;
+	background-color: #343a40;
+	color:white; 
+	text-shadow: 2px 2px 5px blue;
+}
+
+.footer h5{
+ text-align: left;
+}
+.footer i{
+	font-size:24px;	
+}
+.footer i:hover{
+    font-size:30px;
+    color: blue;	
+}
+.footerdiv{
+    text-align: center;
+    color: white;
+}
+
+
+
+
