@@ -1,0 +1,2 @@
+# paxtakor
+News website frondend
